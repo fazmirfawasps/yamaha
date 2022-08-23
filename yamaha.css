@@ -1,0 +1,181 @@
+#yam{
+    width: 100%;
+    /* height: 1000px; */
+    
+    /* background-image: url(images/yaha.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: aquamarine;
+
+}
+#a1{
+    color: brown;
+    font-size: larger;
+}
+#navbarDropdown{
+    color: aqua;
+}
+li{
+    margin-left: 0px;
+}
+#yamah{
+    width: 100%;
+    height: 100%;
+}
+/* #fz{
+   width: 100%; 
+    height: 100px;
+    background-color:;
+    border-radius: 25px;
+    color: #d40000;
+  
+    padding-left: 5%;
+    font-size:x-large;
+    
+    border: 5px solid #d40000;
+    padding-top: 1%;
+   
+} */
+.card{
+    /* padding-top: 50px; */
+    margin-top: 100px;
+}
+#arrow{
+    width: 60px;
+    height: 30px;
+}
+#par1{
+    border: 1px solid #d40000;
+    font-size: 30px;
+    border-radius: 25px;
+    /* margin-left: 20%; */
+    /* margin-left: 350px;
+    margin-right: 350px; */
+    margin-top: 3%;
+    
+
+    
+}
+#a123{
+    /* font-weight: 500; */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:start;
+    padding-top: 2%;
+    margin-left: auto;
+    font-size: 20px;
+}
+.container{
+    max-width: 1472px;
+}
+#ul123{
+    font-size:20px ;
+}
+/* #navsize{
+    font-size: 25px;
+    margin-top: 00px;
+} */
+#container{
+   max-width:1872px;
+}
+.lastdiv{
+    width: 90%;
+    height: auto;
+    background-color: ;
+    ;
+    border-left: 5px solid  rgb(10, 214, 207) ;
+}
+#wifi{
+    width: 40px;
+    height: 30px;
+}
+#earth{
+    width: 40px;
+    height: auto;
+}
+#searchicon{
+    width: 25px;
+    height: 20px;
+}
+#headicon{
+    /* text-align: center; */
+    /* margin: auto; */
+    padding-top: 20px;
+}
+#navsize{
+    text-align: center;
+}
+li{
+    margin: 20px;
+    font-size: x-large;
+}
+#icon1{
+    padding-left: 4%;
+
+
+}
+#foot{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+#ulfoot{
+    color: #ffffff;
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+}
+#lasts{
+    color: #ffffff;
+}
+#lastrow{
+    padding-top: 20px;
+    background-color: aqa;
+    text-align: center;
+    font-size: 90%;
+   
+    color: #ffffff;
+    
+   
+}
+#leg{
+    background-color: #3b3b3b;
+    height: auto;
+    margin-top: 100px;
+    font-size: 20px;
+}
+#footeryamaha{
+    text-align: center;
+    margin-top: 100px;
+}
+#lastsection{
+    text-align: center;
+}
+.alast{
+    color: #ffffff;
+    
+}
+/* #correct{
+    text-align: center;
+} */
+/* #lastline{
+    text-align: center;
+} */
+.row{
+    margin: auto;
+}
+#lastul{
+    text-align: center;
+  
+    /* padding-left: 8%; */
+    
+    
+}
+#footul{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.footli{
+    font-size: 20px;
+}
